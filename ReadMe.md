@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a self taught programmer, student.<br>💥 Worked with Firebase, Hive. Trying out AWS<br>🤝 I answer on Stackoverflow for fun lol<br>💪 Flutter, Dart, Python, JavaScript.<br>🌱 I’m currently learning Node.js<br>💬 Tell me, why could eSports be the future?<br>⚡ Caffeine>>Sleep
+🔭 I’m currently a self taught programmer, student.<br>💥 Worked with Firebase, Hive. Trying out AWS<br>🤝 I answer on Stackoverflow for fun lol<br>💪 Flutter, Dart, Python, JavaScript.<br>🌱 I’m currently learning Node.js<br>💬 Tell me, could eSports be the future?<br>⚡ Caffeine>>Sleep
 
 
 ## 🌐 Socials:
