@@ -2,7 +2,7 @@
 🔭 I’m currently a self taught programmer, student.<br>💥 Worked with Firebase, Hive. Trying out AWS<br>🤝 I answer on Stackoverflow for fun lol<br>💪 Flutter, Dart, Python, JavaScript.<br>🌱 I’m currently learning Node.js<br>💬 Tell me, why could eSports be the future?<br>⚡ Caffeine>>Sleep
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=opxdelwin&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![Delwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=opxdelwin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=opxdelwin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=opxdelwin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
