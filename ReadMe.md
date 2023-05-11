@@ -1,4 +1,12 @@
 # 💫 About Me:
+<h3 align="center"> 
+  Hi I'am Delwin :) 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=quicksand&size=22&duration=4000&color=E37E10&center=true&vCenter=true&lines=App+Developer;Learning+Flutter;Always+Learning;Loves+To+Play+Valorant;Thinks+Aliens+Are+Real+hehe"></img>
+</p>
+
 🔭 I’m currently a self taught programmer, student.<br>💥 Proficient with Firebase, Hive. Trying out AWS<br>🤝 I answer on Stackoverflow for fun lol<br>💪 Flutter, Dart, Python, JavaScript.<br>🌱 I’m currently learning Node.js<br>💬 Tell me, could eSports be the future?<br>⚡ Caffeine>>Sleep
 
 
